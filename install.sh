@@ -1,3 +1,3 @@
 #!/bin/bash
-cp bin/Release/laziness-buster.exe /usr/bin/laziness-buster
+cp laziness-buster/bin/Release/laziness-buster.exe /usr/bin/laziness-buster
 chmod a+x /usr/bin/laziness-buster
