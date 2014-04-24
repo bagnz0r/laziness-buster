@@ -47,6 +47,10 @@ namespace lazinessbuster
 			watcher.Deleted += new FileSystemEventHandler(OnChanged);
 			watcher.Renamed += new RenamedEventHandler(OnRenamed);
 			watcher.EnableRaisingEvents = true;
+
+			// Don't you dare ookin' die.
+			while (true) {
+			}
 		}
 
 		/// <summary>
