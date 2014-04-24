@@ -1,0 +1,5 @@
+/Users/bagnz0r/Development/laziness-buster/laziness-buster/obj/x86/Release/.NETFramework,Version=v4.0.AssemblyAttribute.cs
+/Users/bagnz0r/Development/laziness-buster/laziness-buster/bin/Release/laziness-buster.exe.mdb
+/Users/bagnz0r/Development/laziness-buster/laziness-buster/bin/Release/laziness-buster.exe
+/Users/bagnz0r/Development/laziness-buster/laziness-buster/obj/x86/Release/laziness-buster.exe
+/Users/bagnz0r/Development/laziness-buster/laziness-buster/obj/x86/Release/laziness-buster.exe.mdb

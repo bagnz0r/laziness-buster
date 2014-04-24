@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "laziness-buster", "laziness-buster\laziness-buster.csproj", "{3B8CEE2B-3160-4EBC-9924-A5079A4C95B0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3B8CEE2B-3160-4EBC-9924-A5079A4C95B0}.Debug|x86.ActiveCfg = Debug|x86
+		{3B8CEE2B-3160-4EBC-9924-A5079A4C95B0}.Debug|x86.Build.0 = Debug|x86
+		{3B8CEE2B-3160-4EBC-9924-A5079A4C95B0}.Release|x86.ActiveCfg = Release|x86
+		{3B8CEE2B-3160-4EBC-9924-A5079A4C95B0}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = laziness-buster\laziness-buster.csproj
+	EndGlobalSection
+EndGlobal
